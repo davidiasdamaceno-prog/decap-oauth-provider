@@ -1,0 +1,6 @@
+{
+  "name": "decap-oauth-provider",
+  "version": "1.0.0",
+  "description": "Provedor OAuth simples para autenticação do Decap CMS via GitHub, hospedado na Vercel.",
+  "private": true
+}
